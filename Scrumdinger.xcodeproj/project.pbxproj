@@ -28,6 +28,7 @@
 		8AC1132F2A0A9D3A00D41DFE /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC1132E2A0A9D3A00D41DFE /* ScrumTimer.swift */; };
 		8AC113312A0A9E4500D41DFE /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC113302A0A9E4500D41DFE /* MeetingFooterView.swift */; };
 		8AC113332A0AA0CE00D41DFE /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC113322A0AA0CE00D41DFE /* AVPlayer+Ding.swift */; };
+		8AC113352A0ABD2400D41DFE /* NewScrumSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC113342A0ABD2400D41DFE /* NewScrumSheet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,7 @@
 		8AC1132E2A0A9D3A00D41DFE /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		8AC113302A0A9E4500D41DFE /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		8AC113322A0AA0CE00D41DFE /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "AVPlayer+Ding.swift"; path = "../../../../Downloads/ManagingStateAndLifeCycle/Complete/Scrumdinger/Models/AVPlayer+Ding.swift"; sourceTree = "<group>"; };
+		8AC113342A0ABD2400D41DFE /* NewScrumSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumSheet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +183,7 @@
 				8AC113212A0A924100D41DFE /* ThemeView.swift */,
 				8AC113242A0A939D00D41DFE /* ThemePicker.swift */,
 				8AC113302A0A9E4500D41DFE /* MeetingFooterView.swift */,
+				8AC113342A0ABD2400D41DFE /* NewScrumSheet.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 				8AC113272A0A9A5100D41DFE /* MeetingHeaderView.swift in Sources */,
 				8AC113202A0A8AF400D41DFE /* DetailEditView.swift in Sources */,
 				8A3950172A0A61250057D3F8 /* TrailingIconLabelStyle.swift in Sources */,
+				8AC113352A0ABD2400D41DFE /* NewScrumSheet.swift in Sources */,
 				8A3950112A0A4F500057D3F8 /* Theme.swift in Sources */,
 				8AC1132F2A0A9D3A00D41DFE /* ScrumTimer.swift in Sources */,
 				8A3950192A0A63990057D3F8 /* ScrumsView.swift in Sources */,
