@@ -27,6 +27,7 @@
 		8AC1132B2A0A9C9000D41DFE /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC1132A2A0A9C9000D41DFE /* ScrumProgressViewStyle.swift */; };
 		8AC1132F2A0A9D3A00D41DFE /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC1132E2A0A9D3A00D41DFE /* ScrumTimer.swift */; };
 		8AC113312A0A9E4500D41DFE /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC113302A0A9E4500D41DFE /* MeetingFooterView.swift */; };
+		8AC113332A0AA0CE00D41DFE /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC113322A0AA0CE00D41DFE /* AVPlayer+Ding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		8AC1132A2A0A9C9000D41DFE /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ScrumProgressViewStyle.swift; path = ../../../../Downloads/ManagingStateAndLifeCycle/Complete/Scrumdinger/Views/ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
 		8AC1132E2A0A9D3A00D41DFE /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		8AC113302A0A9E4500D41DFE /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
+		8AC113322A0AA0CE00D41DFE /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "AVPlayer+Ding.swift"; path = "../../../../Downloads/ManagingStateAndLifeCycle/Complete/Scrumdinger/Models/AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 				8A3950162A0A61250057D3F8 /* TrailingIconLabelStyle.swift */,
 				8AC1132E2A0A9D3A00D41DFE /* ScrumTimer.swift */,
 				8A3950102A0A4F500057D3F8 /* Theme.swift */,
+				8AC113322A0AA0CE00D41DFE /* AVPlayer+Ding.swift */,
 				8A3950122A0A504E0057D3F8 /* DailyScrum.swift */,
 			);
 			path = Models;
@@ -327,6 +330,7 @@
 				8A394FE62A0A46BC0057D3F8 /* ScrumdingerApp.swift in Sources */,
 				8AC113222A0A924100D41DFE /* ThemeView.swift in Sources */,
 				8A3950152A0A51BC0057D3F8 /* CardView.swift in Sources */,
+				8AC113332A0AA0CE00D41DFE /* AVPlayer+Ding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
