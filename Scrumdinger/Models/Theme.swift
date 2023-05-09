@@ -26,7 +26,8 @@ enum Theme: String {
     }
     var mainColor: Color {
         switch self {
-        case .bubblegum, .lavender, .magenta, .buttercup, .navy, .oxblood, .periwinkle, .poppy, .seafoam, .sky, .tan: return Color(rawValue)
+        case .bubblegum, .lavender, .magenta, .buttercup, .navy, .oxblood, .periwinkle, .seafoam, .sky, .tan: return Color(rawValue)
+        case .poppy: return .red
         case .indigo: return .indigo
         case .orange: return .orange
         case .purple: return .purple
